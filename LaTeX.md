@@ -354,7 +354,7 @@ $$
 f(x)=\begin{cases}
     x, & x>0, \\
     -x, & x\leq 0.
-\end{cases} 
+\end{cases}
 $$
 
 ### 多行公式

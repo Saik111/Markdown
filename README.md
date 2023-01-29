@@ -7,4 +7,4 @@
 * git status
 * git add .
 * git commit -m '...'
-* git push origin maste
+* git push origin master
